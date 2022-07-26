@@ -38,8 +38,8 @@ header h1{
 
 #new-task-form{
     display: flex;
-    /* flex-direction: column;
-    margin-bottom: 1rem; */
+    /* flex-direction: column; */
+    margin-bottom: 2rem;
 }
 
 input, button{
