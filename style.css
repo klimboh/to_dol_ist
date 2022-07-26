@@ -39,7 +39,7 @@ header h1{
 #new-task-form{
     display: flex;
     /* flex-direction: column; */
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 input, button{
